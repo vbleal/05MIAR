@@ -53,17 +53,8 @@
 <details>
     <summary> Expandir </summary>
 
-- **Actividad Guiada 1 (AG1)**
-    - 
-
-- **Actividad Guiada 2 (AG2)**
-    - 
-
-- **Actividad Guiada 3 (AG3)**
-    - 
-
-- **Trabajo Final**
-    - 
+- **Proyecto 1**
+    - [Actividad_C1_P1.ipynb](https://github.com/vbleal/05MIAR/blob/8f2178f638fb34b831dd5e867b3f3e74cd364843/P1/Actividad_C1_P1_BetancourtVictor.ipynb)
 
 
 </details>
