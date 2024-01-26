@@ -4,7 +4,7 @@
 
 
 
->💡 *In Supervised learning, we are training the machine with data which is well labeled*
+>💡 *In Supervised Learning, we are training the machine with data which is well labeled*
 ―Andrew Ng 
 
 ## 📃 Temas
