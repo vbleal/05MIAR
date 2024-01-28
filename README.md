@@ -58,7 +58,7 @@
     <summary> Expandir </summary>
 
 - **Proyecto 1**
-    - 📑 Notebook (Problema): [Actividad_C1_P1_prob.ipynb]()
+    - 📑 Notebook (Problema): [Actividad_C1_P1_prob.ipynb](https://github.com/vbleal/05MIAR/blob/main/P1/Actividad_C1_P1_prob.ipynb)
     - 📑 Notebook (Solución): [Actividad_C1_P1_sol.ipynb]()
 
 
