@@ -29,7 +29,7 @@ Se estudiarán las características de 2 imágenes histológicas, dadas como inp
 
 Las instrucciones (sin solución) se pueden consultar en el Notebook:
 
-* [Actividad_C1_P1_prob.ipynb]()
+* [Actividad_C1_P1_prob.ipynb](https://github.com/vbleal/SL_ComputerVision/blob/main/P1/Actividad_C1_P1_prob.ipynb)
 
 
 </details>
@@ -79,7 +79,7 @@ Finalmente, se enfocará en la identificación y análisis cuantitativo del lume
 
 Véase el Notebook:
 
-- [GH_SL_CV_Hist_Actividad_C1_P1_sol.ipynb]()
+- [GH_SL_CV_Hist_Actividad_C1_P1_sol.ipynb](https://github.com/vbleal/SL_ComputerVision/blob/main/P1/GH_SL_CV_Hist_Actividad_C1_P1_sol.ipynb)
 
 </details>
 
