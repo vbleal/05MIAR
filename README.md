@@ -5,9 +5,17 @@
 ―**Andrew Ng**
 
 
-![](https://github.com/vbleal/05MIAR/blob/7dc2f8fd934d7a9fc77e6eeafa0796fcc89682ff/Im/SL.png)
+Creado por:
 
-- Créditos: Imagen creada con DALL-E.
+* **V. D. Betancourt**
+
+
+
+<img src="https://github.com/vbleal/05MIAR/blob/7dc2f8fd934d7a9fc77e6eeafa0796fcc89682ff/Im/SL.png" width="500" height="300">
+
+<sub>Créditos: Imagen Generada con IA.</sub>
+
+
 
 
 
